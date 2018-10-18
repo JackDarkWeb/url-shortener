@@ -1,0 +1,45 @@
+body
+{
+    background-image: url("../fond/fond.jpg");
+    color: white;
+}
+.wrapper
+{
+    width: 680px;
+    max-width: 70%;
+    margin: 0 auto;
+    padding: 8em 0 0 0;
+    text-align: center;
+}
+input[type="text"]
+{
+    width: 60%;
+    border: none;
+    padding: 0.5em 0.3em;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: 15px;
+}
+.btn
+{
+    width: 25%;
+    border: none;
+    border-radius: 5px;
+    padding: 0.7em 0 0.4em 0;
+    font-weight: bold;
+    font-size: 13px;
+    background: steelblue;
+}
+.alert-error p
+{
+    color: red;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 15px;
+}
+a
+{
+    color: #1d68a7;
+    font-size: 17px;
+    font-weight: bolder;
+}
